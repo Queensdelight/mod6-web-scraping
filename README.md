@@ -1,6 +1,6 @@
-# 620-mod6-web-scraping
-WMNLP, Project 6
-Bukola Adeniyan, [GitHub](https://github.com/Queensdelight/mod6-web-scraping.git)
+# Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
+
+Student Name: Bukola Adeniyan, [GitHub](https://github.com/Queensdelight/mod6-web-scraping.git)
 
 ## Introduction
 Professional project practicing Web Scraping and NLP with Requests, BeautifulSoup, and spaCy.
@@ -14,7 +14,7 @@ py -m venv .venv
 .venv\Scripts\Activate
 
 ### Install required packages and dependencies into virtual enviornment
-```bash
+```
 python -m pip install beautifulsoup4
 python -m pip install html5lib
 python -m pip install requests
@@ -22,21 +22,21 @@ python -m pip install spacy
 python -m pip install spacytextblob
 python -m pip install matplotlib
 python -m spacy download en_core_web_sm
-```bash
+```
 
 ### Initial Project Save
-```bash
+```
 git add .
 git commit -m "initial"                         
 git push origin main
-```bash
+```
 
 ## Update the code cells and push to Github
-```bash
+```
 git add .
 git commit -m "final"                         
 git push origin main
-```bash
+```
 
 ## Questions follows:
 
