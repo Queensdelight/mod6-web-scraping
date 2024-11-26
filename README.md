@@ -1,6 +1,8 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
-Student Name: Bukola Adeniyan, [GitHub](https://github.com/Queensdelight/mod6-web-scraping.git)
+## Student Name: Bukola Adeniyan
+
+## Link to GitHub:[GitHub](https://github.com/Queensdelight/mod6-web-scraping.git)
 
 ## Introduction
 Professional project practicing Web Scraping and NLP with Requests, BeautifulSoup, and spaCy.
